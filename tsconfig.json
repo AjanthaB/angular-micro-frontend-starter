@@ -9,6 +9,17 @@
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
+    "paths": {
+      "models": [
+        "dist/models"
+      ],
+      "shared-lib": [
+        "dist/shared-lib"
+      ],
+      "utils": [
+        "dist/utils"
+      ]
+    },
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "declaration": false,
